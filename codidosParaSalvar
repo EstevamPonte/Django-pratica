@@ -1,0 +1,7 @@
+rodar o servidor:  python manage.py runserver
+
+fazer as migrações pendentes e adicionar no banco: python manage.py migrate
+
+criando uma migração: python manage.py makemigrations
+
+criar um usuario admin: python manage.py createsuperuser
